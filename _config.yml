@@ -1,4 +1,5 @@
 title: Sanjana Dutta
 logo: /assets/img/headshot.png
-show_downloads: True
+description: text blue
+#show_downloads: True
 theme: jeykyll-theme-minimal
