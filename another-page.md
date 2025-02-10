@@ -36,6 +36,8 @@ Hello there
 Hello there 
 
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/python)
+![Static Badge](https://img.shields.io/badge/python?link=https%3A%2F%2Fgithub.com%2Fsanjanadutta444%2Fto-do-app)
 
 
 {% include button.html button_name="My Button" button_class="primary" %}
