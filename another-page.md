@@ -35,6 +35,16 @@ Hello there
 Hello there 
 Hello there 
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+
+{% include button.html button_name="My Button" button_class="primary" %}
+
+<button name="button" onclick="http://www.google.com">Source code</button>
+[button url="http://www.google.com"]
+{% include button.html url="http://www.google.com" %}
+
+
 ## Emphasis
 Hello there 
 Hello there 
